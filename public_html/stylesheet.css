@@ -1,0 +1,97 @@
+/* About Page changes */
+
+#heartdec {
+	max-width: 20%;
+	height: 20%;
+	border: dotted;
+	border-color: blueviolet;
+	border-radius: 20%;
+}
+
+/* Index Page changes */
+
+#mainlogo {
+	max-width:300px;
+	height: auto;
+	border-style: solid dashed solid dashed;
+	border-color: skyblue;
+	border-radius: 10px;
+	margin: 10px;
+	padding: 10px;
+}
+
+#newspaperhead {
+	font-size: 30px;
+	text-align: center;
+	background-color:#ece6d6;
+	max-width: 500px;
+}
+
+/* Nav Menu changes */
+
+nav li {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	background-color: skyblue;
+}
+
+nav li {
+ 	float: left;
+ }
+
+ nav li a {
+ 	display: block;
+ 	color: black;
+ 	text-align: center;
+ 	margin: 0px;
+ 	padding: 16px;
+ 	text-decoration: none;
+ 	font-family: "Times New Roman", "Lucida Handwriting", sans-serif;
+ }
+
+nav li a:hover {
+	background-color: powderblue;
+}
+
+/* Exercise Page Edits */
+
+#exercisepic {
+	width: 250px;
+	height: 250px;
+	border-style: solid;
+	border-color: mistyrose;
+}
+
+
+#netflixpic {
+	width: 30%;
+	height: 30%;
+	border-style: solid;
+	border-color: mistyrose;
+
+}
+
+
+/* Power Naps Edits */
+
+#sleepingimg {
+	width: 20%;
+	height: 20%;
+	border-style: solid;
+	border-color: mistyrose;
+}
+
+/* All  page changes */
+
+.main_header {
+	font-style: arial, sans-serif;
+	font-size: 30px;
+	color: indianred;
+}
+
+p {
+	font-style: arial, sans-serif;
+	font-size: 17px;
+}
